@@ -340,10 +340,6 @@
                 "0": {
                     "key": "LALT",
                     "label": "LALT"
-                },
-                "2": {
-                    "key": "CONS:SCANNEXTTRACK",
-                    "label": "NEXT"
                 }
             }
         },
@@ -357,10 +353,6 @@
                 "0": {
                     "key": "LCTRL",
                     "label": "LCTRL"
-                },
-                "2": {
-                    "key": "CONS:SCANPREVIOUSTRACK",
-                    "label": "PREV"
                 }
             }
         },
@@ -473,10 +465,6 @@
                 "0": {
                     "key": "LCK2",
                     "label": "LOCK-2"
-                },
-                "2": {
-                    "key": "CONS:PAUSEPLAY",
-                    "label": "PL\/PS"
                 }
             }
         },
@@ -490,10 +478,6 @@
                 "0": {
                     "key": "FUN1",
                     "label": "\u01921"
-                },
-                "2": {
-                    "key": "CONS:STOP",
-                    "label": "STOP"
                 }
             }
         },
@@ -537,6 +521,10 @@
                 "0": {
                     "key": "END",
                     "label": "END"
+                },
+                "2": {
+                    "key": "CONS:SCANNEXTTRACK",
+                    "label": "NEXT"
                 }
             }
         },
@@ -550,6 +538,10 @@
                 "0": {
                     "key": "HOME",
                     "label": "HOME"
+                },
+                "2": {
+                    "key": "CONS:PAUSEPLAY",
+                    "label": "PL\/PS"
                 }
             }
         },
@@ -563,6 +555,10 @@
                 "0": {
                     "key": "BACKSLASH",
                     "label": "\\"
+                },
+                "2": {
+                    "key": "CONS:STOP",
+                    "label": "STOP"
                 }
             }
         },
@@ -576,6 +572,10 @@
                 "0": {
                     "key": "BACKTICK",
                     "label": "`"
+                },
+                "2": {
+                    "key": "CONS:SCANPREVIOUSTRACK",
+                    "label": "PREV"
                 }
             }
         },
