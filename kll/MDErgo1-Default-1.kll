@@ -24,4 +24,8 @@ U"7" : U"F9";
 U"8" : U"F10";
 U"9" : U"F11";
 U"0" : U"F12";
+U"MINUS" : U"F13";
+U"RBRACE" : U"F14";
+U"QUOTE" : U"F15";
+U"RSHIFT" : U"F16";
 
