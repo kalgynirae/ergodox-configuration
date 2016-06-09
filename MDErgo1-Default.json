@@ -18,8 +18,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:'{'",
-                    "label": "{"
+                    "key": "#:'('",
+                    "label": "("
                 },
                 "1": {
                     "key": "F6",
@@ -39,8 +39,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:'<'",
-                    "label": "<"
+                    "key": "#:'%'",
+                    "label": "%"
                 },
                 "1": {
                     "key": "F5",
@@ -177,8 +177,12 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "#:'('",
-                    "label": "("
+                    "key": "LBRACE",
+                    "label": "["
+                },
+                "1": {
+                    "key": "HOME",
+                    "label": "HOME"
                 },
                 "2": {
                     "key": "CONS:VOLUMEUP",
@@ -198,8 +202,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "Y",
-                    "label": "Y"
+                    "key": "T",
+                    "label": "T"
                 },
                 "4": {
                     "key": "T",
@@ -215,8 +219,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "P",
-                    "label": "P"
+                    "key": "R",
+                    "label": "R"
                 },
                 "4": {
                     "key": "R",
@@ -232,8 +236,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "PERIOD",
-                    "label": "."
+                    "key": "E",
+                    "label": "E"
                 },
                 "4": {
                     "key": "E",
@@ -249,8 +253,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "COMMA",
-                    "label": ","
+                    "key": "W",
+                    "label": "W"
                 },
                 "4": {
                     "key": "W",
@@ -266,8 +270,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "SEMICOLON",
-                    "label": ";"
+                    "key": "Q",
+                    "label": "Q"
                 },
                 "4": {
                     "key": "Q",
@@ -300,8 +304,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "I",
-                    "label": "I"
+                    "key": "G",
+                    "label": "G"
                 },
                 "4": {
                     "key": "G",
@@ -317,8 +321,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "U",
-                    "label": "U"
+                    "key": "F",
+                    "label": "F"
                 },
                 "4": {
                     "key": "F",
@@ -334,8 +338,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "E",
-                    "label": "E"
+                    "key": "D",
+                    "label": "D"
                 },
                 "4": {
                     "key": "D",
@@ -351,8 +355,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "O",
-                    "label": "O"
+                    "key": "S",
+                    "label": "S"
                 },
                 "4": {
                     "key": "S",
@@ -415,8 +419,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LCTRL",
-                    "label": "LCTRL"
+                    "key": "LGUI",
+                    "label": "LGUI"
                 },
                 "2": {
                     "key": "FUN3",
@@ -432,8 +436,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "LBRACE",
-                    "label": "["
+                    "key": "FUN1",
+                    "label": "\u01921"
                 },
                 "2": {
                     "key": "CONS:VOLUMEDOWN",
@@ -453,8 +457,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "X",
-                    "label": "X"
+                    "key": "B",
+                    "label": "B"
                 },
                 "4": {
                     "key": "B",
@@ -470,8 +474,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "K",
-                    "label": "K"
+                    "key": "V",
+                    "label": "V"
                 },
                 "4": {
                     "key": "V",
@@ -487,8 +491,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "J",
-                    "label": "J"
+                    "key": "C",
+                    "label": "C"
                 },
                 "4": {
                     "key": "C",
@@ -504,8 +508,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "Q",
-                    "label": "Q"
+                    "key": "X",
+                    "label": "X"
                 },
                 "4": {
                     "key": "X",
@@ -521,8 +525,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "QUOTE",
-                    "label": "'"
+                    "key": "Z",
+                    "label": "Z"
                 },
                 "4": {
                     "key": "Z",
@@ -568,8 +572,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
+                    "key": "HOME",
+                    "label": "HOME"
+                },
+                "2": {
+                    "key": "LCK4",
+                    "label": "LOCK-4"
                 }
             }
         },
@@ -692,8 +700,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:'}'",
-                    "label": "}"
+                    "key": "#:')'",
+                    "label": ")"
                 },
                 "1": {
                     "key": "F7",
@@ -709,8 +717,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:'>'",
-                    "label": ">"
+                    "key": "#:'^'",
+                    "label": "^"
                 },
                 "1": {
                     "key": "F8",
@@ -730,8 +738,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:'%'",
-                    "label": "%"
+                    "key": "#:'&'",
+                    "label": "&"
                 },
                 "1": {
                     "key": "F9",
@@ -755,14 +763,14 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:'^'",
-                    "label": "^"
+                    "key": "#:'*'",
+                    "label": "*"
                 },
                 "1": {
                     "key": "F10",
                     "label": "F10"
                 },
-                "2": {
+                "3": {
                     "key": "P\/",
                     "label": "P\/"
                 },
@@ -780,14 +788,14 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:'&'",
-                    "label": "&"
+                    "key": "#:'_'",
+                    "label": "_"
                 },
                 "1": {
                     "key": "F11",
                     "label": "F11"
                 },
-                "2": {
+                "3": {
                     "key": "P*",
                     "label": "P*"
                 },
@@ -805,14 +813,14 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:'*'",
-                    "label": "*"
+                    "key": "#:'+'",
+                    "label": "+"
                 },
                 "1": {
                     "key": "F12",
                     "label": "F12"
                 },
-                "2": {
+                "3": {
                     "key": "P-",
                     "label": "P-"
                 },
@@ -851,8 +859,12 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "#:')'",
-                    "label": ")"
+                    "key": "RBRACE",
+                    "label": "]"
+                },
+                "1": {
+                    "key": "END",
+                    "label": "END"
                 },
                 "2": {
                     "key": "CONS:BRIGHTNESSINCREMENT",
@@ -872,8 +884,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "F",
-                    "label": "F"
+                    "key": "Y",
+                    "label": "Y"
                 },
                 "4": {
                     "key": "Y",
@@ -889,8 +901,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "G",
-                    "label": "G"
+                    "key": "U",
+                    "label": "U"
                 },
                 "2": {
                     "key": "7",
@@ -914,8 +926,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "C",
-                    "label": "C"
+                    "key": "I",
+                    "label": "I"
                 },
                 "2": {
                     "key": "8",
@@ -939,8 +951,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "R",
-                    "label": "R"
+                    "key": "O",
+                    "label": "O"
                 },
                 "2": {
                     "key": "9",
@@ -964,10 +976,10 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "L",
-                    "label": "L"
+                    "key": "P",
+                    "label": "P"
                 },
-                "2": {
+                "3": {
                     "key": "P+",
                     "label": "P+"
                 },
@@ -1002,12 +1014,16 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "D",
-                    "label": "D"
+                    "key": "H",
+                    "label": "H"
+                },
+                "1": {
+                    "key": "LEFT",
+                    "label": "\u2190"
                 },
                 "2": {
-                    "key": "#:'?'",
-                    "label": "?"
+                    "key": "#:':'",
+                    "label": ":"
                 },
                 "4": {
                     "key": "H",
@@ -1023,8 +1039,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "H",
-                    "label": "H"
+                    "key": "J",
+                    "label": "J"
+                },
+                "1": {
+                    "key": "DOWN",
+                    "label": "\u2193"
                 },
                 "2": {
                     "key": "4",
@@ -1048,8 +1068,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "T",
-                    "label": "T"
+                    "key": "K",
+                    "label": "K"
+                },
+                "1": {
+                    "key": "UP",
+                    "label": "\u2191"
                 },
                 "2": {
                     "key": "5",
@@ -1073,8 +1097,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "N",
-                    "label": "N"
+                    "key": "L",
+                    "label": "L"
+                },
+                "1": {
+                    "key": "RIGHT",
+                    "label": "\u2192"
                 },
                 "2": {
                     "key": "6",
@@ -1098,12 +1126,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "S",
-                    "label": "S"
+                    "key": "SEMICOLON",
+                    "label": ";"
                 },
-                "2": {
-                    "key": "P=",
-                    "label": "P="
+                "3": {
+                    "key": "P+",
+                    "label": "P+"
                 },
                 "4": {
                     "key": "SEMICOLON",
@@ -1119,8 +1147,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "MINUS",
-                    "label": "-"
+                    "key": "QUOTE",
+                    "label": "'"
                 },
                 "1": {
                     "key": "F15",
@@ -1166,8 +1194,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "RBRACE",
-                    "label": "]"
+                    "key": "#:')'",
+                    "label": ")"
                 },
                 "2": {
                     "key": "CONS:BRIGHTNESSDECREMENT",
@@ -1187,8 +1215,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "B",
-                    "label": "B"
+                    "key": "N",
+                    "label": "N"
+                },
+                "1": {
+                    "key": "PAGEUP",
+                    "label": "PGUP"
                 },
                 "2": {
                     "key": "COMMA",
@@ -1233,8 +1265,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "W",
-                    "label": "W"
+                    "key": "COMMA",
+                    "label": ","
                 },
                 "2": {
                     "key": "2",
@@ -1258,8 +1290,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "V",
-                    "label": "V"
+                    "key": "PERIOD",
+                    "label": "."
                 },
                 "2": {
                     "key": "3",
@@ -1283,12 +1315,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "Z",
-                    "label": "Z"
+                    "key": "SLASH",
+                    "label": "\/"
                 },
-                "2": {
-                    "key": "COMMA",
-                    "label": ","
+                "3": {
+                    "key": "PENTER",
+                    "label": "P\u21b5"
                 },
                 "4": {
                     "key": "SLASH",
@@ -1304,8 +1336,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "SLASH",
-                    "label": "\/"
+                    "key": "MINUS",
+                    "label": "-"
                 },
                 "1": {
                     "key": "F16",
@@ -1338,12 +1370,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "PAGEDOWN",
-                    "label": "PGDN"
-                },
-                "1": {
-                    "key": "LCK4",
-                    "label": "LOCK-4"
+                    "key": "END",
+                    "label": "END"
                 }
             }
         },
@@ -1370,6 +1398,10 @@
                 "0": {
                     "key": "SPACE",
                     "label": "[&nbsp;]"
+                },
+                "1": {
+                    "key": "PAGEDOWN",
+                    "label": "PGDN"
                 }
             }
         },
@@ -1438,6 +1470,10 @@
                 "0": {
                     "key": "RIGHT",
                     "label": "\u2192"
+                },
+                "3": {
+                    "key": "PENTER",
+                    "label": "P\u21b5"
                 }
             }
         },
