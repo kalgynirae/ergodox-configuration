@@ -162,7 +162,7 @@ const Capability CapabilitiesList[] = {
 // -- Result Macros
 
 // Result Macro Guides
-Guide_RM( 0 ) = { 2, 15, KEY_LSHIFT, 15, KEY_MINUS, 0 };
+Guide_RM( 0 ) = { 2, 15, KEY_LSHIFT, 15, KEY_EQUAL, 0 };
 Guide_RM( 1 ) = { 1, 15, KEY_ESC, 0 };
 Guide_RM( 2 ) = { 1, 15, KEY_J, 0 };
 Guide_RM( 3 ) = { 1, 15, KEY_A, 0 };
@@ -212,12 +212,12 @@ Guide_RM( 46 ) = { 1, 15, KEY_Y, 0 };
 Guide_RM( 47 ) = { 1, 15, KEY_Z, 0 };
 Guide_RM( 48 ) = { 2, 15, KEY_LSHIFT, 15, KEY_2, 0 };
 Guide_RM( 49 ) = { 2, 15, KEY_LSHIFT, 15, KEY_BACKTICK, 0 };
-Guide_RM( 50 ) = { 1, 15, KEY_BACKTICK, 0 };
+Guide_RM( 50 ) = { 1, 15, KEY_EQUAL, 0 };
 Guide_RM( 51 ) = { 1, 15, KEY_V, 0 };
 Guide_RM( 52 ) = { 2, 15, KEY_LSHIFT, 15, KEY_5, 0 };
 Guide_RM( 53 ) = { 1, 15, KEY_U, 0 };
 Guide_RM( 54 ) = { 2, 15, KEY_LSHIFT, 15, KEY_1, 0 };
-Guide_RM( 55 ) = { 1, 15, KEY_EQUAL, 0 };
+Guide_RM( 55 ) = { 1, 15, KEY_BACKTICK, 0 };
 Guide_RM( 56 ) = { 1, 15, KEY_M, 0 };
 Guide_RM( 57 ) = { 1, 15, KEY_LALT, 0 };
 Guide_RM( 58 ) = { 1, 15, KEY_RALT, 0 };
@@ -706,7 +706,7 @@ const TriggerMacro TriggerMacroList[] = {
 	Define_TM( 57, 55 ),
 	Define_TM( 58, 56 ),
 	Define_TM( 59, 57 ),
-	Define_TM( 60, 55 ),
+	Define_TM( 60, 50 ),
 	Define_TM( 61, 58 ),
 	Define_TM( 62, 59 ),
 	Define_TM( 63, 60 ),
@@ -804,7 +804,7 @@ const TriggerMacro TriggerMacroList[] = {
 	Define_TM( 155, 102 ),
 	Define_TM( 156, 78 ),
 	Define_TM( 157, 81 ),
-	Define_TM( 158, 55 ),
+	Define_TM( 158, 50 ),
 	Define_TM( 159, 83 ),
 	Define_TM( 160, 8 ),
 	Define_TM( 161, 12 ),

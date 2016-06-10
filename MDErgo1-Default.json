@@ -780,8 +780,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:'_'",
-                    "label": "_"
+                    "key": "#:'+'",
+                    "label": "+"
                 },
                 "1": {
                     "key": "F11",
@@ -805,8 +805,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKTICK",
-                    "label": "`"
+                    "key": "EQUAL",
+                    "label": "="
                 },
                 "1": {
                     "key": "F12",
@@ -830,8 +830,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "EQUAL",
-                    "label": "="
+                    "key": "BACKTICK",
+                    "label": "`"
                 },
                 "1": {
                     "key": "F13",
