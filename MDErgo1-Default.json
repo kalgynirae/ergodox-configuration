@@ -151,13 +151,17 @@
             "w": 6,
             "h": 4,
             "layers": {
+                "0": {
+                    "key": "BACKTICK",
+                    "label": "`"
+                },
                 "1": {
                     "key": "SCROLLLOCK",
                     "label": "SCLK"
                 },
                 "2": {
-                    "key": "CONS:EJECT",
-                    "label": "EJECT"
+                    "key": "#:flashMode()",
+                    "label": "FLASH"
                 },
                 "4": {
                     "key": "ESCAPE",
@@ -175,10 +179,6 @@
                 "0": {
                     "key": "ESCAPE",
                     "label": "ESC"
-                },
-                "1": {
-                    "key": "HOME",
-                    "label": "HOME"
                 },
                 "2": {
                     "key": "CONS:VOLUMEUP",
@@ -540,10 +540,6 @@
                 "0": {
                     "key": "LSHIFT",
                     "label": "L\u21d1"
-                },
-                "1": {
-                    "key": "PRINTSCREEN",
-                    "label": "PRSC"
                 }
             }
         },
@@ -568,8 +564,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "HOME",
-                    "label": "HOME"
+                    "key": "DELETE",
+                    "label": "DEL"
                 },
                 "2": {
                     "key": "LCK4",
@@ -600,10 +596,6 @@
                 "0": {
                     "key": "BACKSPACE",
                     "label": "BKSP"
-                },
-                "1": {
-                    "key": "DELETE",
-                    "label": "DEL"
                 }
             }
         },
@@ -621,6 +613,10 @@
                 "2": {
                     "key": "CONS:SCANNEXTTRACK",
                     "label": "NEXT"
+                },
+                "4": {
+                    "key": "RIGHT",
+                    "label": "\u2192"
                 }
             }
         },
@@ -638,6 +634,10 @@
                 "2": {
                     "key": "CONS:PAUSEPLAY",
                     "label": "PL\/PS"
+                },
+                "4": {
+                    "key": "LEFT",
+                    "label": "\u2190"
                 }
             }
         },
@@ -655,6 +655,10 @@
                 "2": {
                     "key": "CONS:STOP",
                     "label": "STOP"
+                },
+                "4": {
+                    "key": "BACKSLASH",
+                    "label": "\\"
                 }
             }
         },
@@ -672,6 +676,10 @@
                 "2": {
                     "key": "CONS:SCANPREVIOUSTRACK",
                     "label": "PREV"
+                },
+                "4": {
+                    "key": "BACKTICK",
+                    "label": "`"
                 }
             }
         },
@@ -695,6 +703,10 @@
             "w": 4,
             "h": 4,
             "layers": {
+                "0": {
+                    "key": "PRINTSCREEN",
+                    "label": "PRSC"
+                },
                 "1": {
                     "key": "F7",
                     "label": "F7"
@@ -830,12 +842,16 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKTICK",
-                    "label": "`"
+                    "key": "#:'|'",
+                    "label": "|"
                 },
                 "1": {
-                    "key": "F13",
-                    "label": "F13"
+                    "key": "INSERT",
+                    "label": "INS"
+                },
+                "2": {
+                    "key": "#:flashMode()",
+                    "label": "FLASH"
                 },
                 "4": {
                     "key": "MINUS",
@@ -850,13 +866,9 @@
             "w": 4,
             "h": 6,
             "layers": {
-                "1": {
-                    "key": "END",
-                    "label": "END"
-                },
-                "2": {
-                    "key": "CONS:BRIGHTNESSINCREMENT",
-                    "label": "SCRN+"
+                "0": {
+                    "key": "ESCAPE",
+                    "label": "ESC"
                 },
                 "4": {
                     "key": "RBRACE",
@@ -988,10 +1000,6 @@
                     "key": "QUOTE",
                     "label": "'"
                 },
-                "1": {
-                    "key": "F14",
-                    "label": "F14"
-                },
                 "4": {
                     "key": "EQUAL",
                     "label": "="
@@ -1121,6 +1129,10 @@
                     "key": "SEMICOLON",
                     "label": ";"
                 },
+                "1": {
+                    "key": "END",
+                    "label": "END"
+                },
                 "3": {
                     "key": "P+",
                     "label": "P+"
@@ -1142,10 +1154,6 @@
                     "key": "MINUS",
                     "label": "-"
                 },
-                "1": {
-                    "key": "F15",
-                    "label": "F15"
-                },
                 "4": {
                     "key": "QUOTE",
                     "label": "'"
@@ -1160,8 +1168,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "APP",
-                    "label": "APP"
+                    "key": "RALT",
+                    "label": "RALT"
                 }
             }
         },
@@ -1173,8 +1181,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RALT",
-                    "label": "RALT"
+                    "key": "APP",
+                    "label": "APP"
                 }
             }
         },
@@ -1185,9 +1193,13 @@
             "w": 4,
             "h": 6,
             "layers": {
-                "2": {
-                    "key": "CONS:BRIGHTNESSDECREMENT",
-                    "label": "SCRN-"
+                "0": {
+                    "key": "FUN2",
+                    "label": "\u01922"
+                },
+                "1": {
+                    "key": "HOME",
+                    "label": "HOME"
                 },
                 "4": {
                     "key": "B",
@@ -1327,10 +1339,6 @@
                     "key": "#:'~'",
                     "label": "~"
                 },
-                "1": {
-                    "key": "F16",
-                    "label": "F16"
-                },
                 "4": {
                     "key": "RSHIFT",
                     "label": "R\u21d1"
@@ -1344,7 +1352,10 @@
             "w": 4,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "RSHIFT",
+                    "label": "R\u21d1"
+                }
             }
         },
         {
@@ -1355,8 +1366,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "END",
-                    "label": "END"
+                    "key": "RGUI",
+                    "label": "RGUI"
                 }
             }
         },
@@ -1426,6 +1437,14 @@
                     "key": "RBRACE",
                     "label": "]"
                 },
+                "2": {
+                    "key": "#:None",
+                    "label": "NONE"
+                },
+                "3": {
+                    "key": "#:None",
+                    "label": "NONE"
+                },
                 "4": {
                     "key": "DOWN",
                     "label": "\u2193"
@@ -1486,12 +1505,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:'|'",
-                    "label": "|"
-                },
-                "4": {
-                    "key": "RGUI",
-                    "label": "RGUI"
+                    "key": "RCTRL",
+                    "label": "RCTRL"
                 }
             }
         }

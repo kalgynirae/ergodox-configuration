@@ -30,6 +30,10 @@ U"V" : U"V";
 U"C" : U"C";
 U"X" : U"X";
 U"Z" : U"Z";
+U"FUNCTION5" : U"RIGHT";
+U"FUNCTION4" : U"LEFT";
+U"FUNCTION3" : U"BACKSLASH";
+U"BACKTICK" : U"BACKTICK";
 U"6" : U"6";
 U"7" : U"7";
 U"8" : U"8";
@@ -60,5 +64,4 @@ U"LEFT" : U"LEFT";
 U"DOWN" : U"DOWN";
 U"UP" : U"UP";
 U"RIGHT" : U"RIGHT";
-U"RGUI" : U"RGUI";
 

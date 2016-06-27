@@ -24,6 +24,7 @@ U"COMMA" : U"P2";
 U"PERIOD" : U"P3";
 U"SLASH" : U"PENTER";
 U"LEFT" : U"P0";
+U"DOWN" : None;
 U"UP" : U"P.";
 U"RIGHT" : U"PENTER";
 
