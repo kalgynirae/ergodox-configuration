@@ -73,7 +73,7 @@ U"M" : U"M";
 U"COMMA" : U"COMMA";
 U"PERIOD" : U"PERIOD";
 U"SLASH" : U"SLASH";
-U"RSHIFT" : '"';
+U"RSHIFT" : '_';
 U"PAGEUP" : U"RGUI";
 U"PAGEDOWN" : U"RSHIFT";
 U"ENTER" : U"ENTER";

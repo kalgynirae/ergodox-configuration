@@ -45,6 +45,10 @@
                 "1": {
                     "key": "F5",
                     "label": "F5"
+                },
+                "2": {
+                    "key": "CONS:EJECT",
+                    "label": "EJECT"
                 }
             }
         },
@@ -79,10 +83,6 @@
                 "1": {
                     "key": "F3",
                     "label": "F3"
-                },
-                "2": {
-                    "key": "CONS:FILEBROWSER",
-                    "label": "FILES"
                 }
             }
         },
@@ -100,10 +100,6 @@
                 "1": {
                     "key": "F2",
                     "label": "F2"
-                },
-                "2": {
-                    "key": "CONS:INTERNETBROWSER",
-                    "label": "WEB"
                 }
             }
         },
@@ -121,10 +117,6 @@
                 "1": {
                     "key": "F1",
                     "label": "F1"
-                },
-                "2": {
-                    "key": "CONS:CALCULATOR",
-                    "label": "CALC"
                 }
             }
         },
@@ -176,6 +168,10 @@
                 "0": {
                     "key": "T",
                     "label": "T"
+                },
+                "2": {
+                    "key": "CONS:BRIGHTNESSINCREMENT",
+                    "label": "SCRN+"
                 }
             }
         },
@@ -258,6 +254,10 @@
                 "0": {
                     "key": "G",
                     "label": "G"
+                },
+                "2": {
+                    "key": "CONS:BRIGHTNESSDECREMENT",
+                    "label": "SCRN-"
                 }
             }
         },
@@ -340,10 +340,6 @@
                 "0": {
                     "key": "LCK2",
                     "label": "LOCK-2"
-                },
-                "2": {
-                    "key": "#:None",
-                    "label": "NONE"
                 }
             }
         },
@@ -357,10 +353,6 @@
                 "0": {
                     "key": "FUN3",
                     "label": "\u01923"
-                },
-                "2": {
-                    "key": "#:None",
-                    "label": "NONE"
                 }
             }
         },
@@ -1148,8 +1140,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:'\"'",
-                    "label": "\""
+                    "key": "#:'_'",
+                    "label": "_"
                 }
             }
         },
